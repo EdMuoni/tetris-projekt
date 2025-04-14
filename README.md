@@ -27,11 +27,11 @@ Kasutajalugu 3 – Rea täitumine ja kadumine
 Kui rida täitub, kustutab süsteem selle automaatselt ja lisab kasutajale skoori.
 Prototüübi vaated:
  Lisatud visuaalsed eskiisid (vt pilt):
- 
+ ## Prototüüp
+
+![Tetrise prototüüp](prototüüp.png)
 •	Avaleht "Alusta mängu" nupuga
-
 •	Mängulaua vaade, kukkuva kujundiga
-
 •	Täitunud rea eemaldamine
 
 6. Testfaili nimi ja kirjeldus:
