@@ -15,8 +15,7 @@ Tehke vähemalt kolm kasutajalugu ja koostage nendele vaated ja tegevused. Lisag
 Loome klassikalise Tetrise mängu lihtsustatud versiooni, kus mängija juhib ülevalt alla kukkuvaid kujundeid (tetromino’sid), eesmärgiga täita horisontaalseid ridu ja koguda punkte. Mängu liides on loodud kas PySimpleGUI või Tkinteri abil. Soovime just klassikalise luua, kuna üks meist on just sellest puudust tundnud.
 
 4. Valitud projekti suund:
-4. variant – Kasutajaliides. PySimpleGUI
-
+4. variant – Kasutajaliides.
 5. Kasutajalood ja prototüübi eskiisid:
 Kasutajalugu 1 – Mängu alustamine
 Kasutaja vajutab "Alusta mängu" nuppu ja mängulaud ilmub.
@@ -26,17 +25,15 @@ Kasutajalugu 3 – Rea täitumine ja kadumine
 Kui rida täitub, kustutab süsteem selle automaatselt ja lisab kasutajale skoori.
 Prototüübi vaated:
  Lisatud visuaalsed eskiisid (vt pilt):
- ## Prototüüp
-
-![Tetrise prototüüp](prototüüp.png)
+ ![Prototüüp](prototyyp.jpg)
 •	Avaleht "Alusta mängu" nupuga
 •	Mängulaua vaade, kukkuva kujundiga
 •	Täitunud rea eemaldamine
 
 6. Testfaili nimi ja kirjeldus:
-Fail: test_tetris.py
+Fail: tetris.py
  Skript käivitab mängu või liidese demo. Näiteks:
-python test_tetris.py
+python tetris.py
 
 7. GitHubi repositoorium:
 GitHub repo link: https://github.com/Annelisss/tetris-projekt.git
