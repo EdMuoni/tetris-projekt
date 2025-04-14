@@ -16,7 +16,6 @@ Loome klassikalise Tetrise mängu lihtsustatud versiooni, kus mängija juhib ül
 
 4. Valitud projekti suund:
 4. variant – Kasutajaliides. PySimpleGUI
- (Soovi korral võib valida ka 5. variant – Tkinter, kui kasutate seda hoopis.)
 
 5. Kasutajalood ja prototüübi eskiisid:
 Kasutajalugu 1 – Mängu alustamine
