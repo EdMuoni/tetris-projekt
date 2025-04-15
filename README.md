@@ -31,17 +31,18 @@ Kui horisontaalne rida täitub, kustutatakse see automaatselt ja kasutajale lisa
 Prototüübi vaated:
  Lisatud visuaalsed eskiisid (vt pilt):
  ![Prototüüp](prototyyp.jpg)
+
 •	Avaleht "Alusta mängu" nupuga
 •	Mängulaua vaade, kukkuva kujundiga
 •	Täitunud rea eemaldamine
 
-6. Testfaili nimi ja kirjeldus:
+7. Testfaili nimi ja kirjeldus:
 Fail: tetris.py
  Skript käivitab mängu demo. tetris.py
 
-7. GitHubi repositoorium:
+8. GitHubi repositoorium:
 GitHub repo link: https://github.com/Annelisss/tetris-projekt.git
 
-8. Halduskeskkond
+9. Halduskeskkond
 Projekti ülesannete haldamiseks kasutame Trellot.  
 Trello projektitahvel: https://trello.com/invite/b/67fd7b84150ebc07898ed82c/ATTI885052c2fc9cee9744dac5b616944db30CCFE7A4/tetris-projekt
