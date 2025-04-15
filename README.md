@@ -8,21 +8,26 @@ Tehke vähemalt kolm kasutajalugu ja koostage nendele vaated ja tegevused. Lisag
 
 1. Projekti nimi: Tetris – Klassikaline loogikamäng
 2. Rühma liikmed:
-•	Nimi 1 – Anneli Sepp arendaja
-•	Nimi 2 – Edgar Muoni arendaja
+Anneli Sepp - arendaja
+Edgar Muoni - arendaja
 
 3. Projekti idee – lühikirjeldus:
 Loome klassikalise Tetrise mängu lihtsustatud versiooni, kus mängija juhib ülevalt alla kukkuvaid kujundeid (tetromino’sid), eesmärgiga täita horisontaalseid ridu ja koguda punkte. Mängu liides on loodud kas PySimpleGUI või Tkinteri abil. Soovime just klassikalise luua, kuna üks meist on just sellest puudust tundnud.
 
 4. Valitud projekti suund:
-4. variant – Kasutajaliides.
+4. Kasutajaliides Tkinter
 5. Kasutajalood ja prototüübi eskiisid:
-Kasutajalugu 1 – Mängu alustamine
+Kasutajalugu 1 – Mängu alustamine:
 Kasutaja vajutab "Alusta mängu" nuppu ja mängulaud ilmub.
 Kasutajalugu 2 – Kujundi juhtimine
-Kasutaja juhib nooleklahvidega kujundit, mis kukub ülevalt alla.
+Kasutaja saab kujundeid liigutada klaviatuuriklahvide abil:
+A – vasakule
+D – paremale
+S – alla
+W – pööramine
+Tühik – kiire langemine
 Kasutajalugu 3 – Rea täitumine ja kadumine
-Kui rida täitub, kustutab süsteem selle automaatselt ja lisab kasutajale skoori.
+Kui horisontaalne rida täitub, kustutatakse see automaatselt ja kasutajale lisatakse vastav arv punkte.
 Prototüübi vaated:
  Lisatud visuaalsed eskiisid (vt pilt):
  ![Prototüüp](prototyyp.jpg)
@@ -32,8 +37,7 @@ Prototüübi vaated:
 
 6. Testfaili nimi ja kirjeldus:
 Fail: tetris.py
- Skript käivitab mängu või liidese demo. Näiteks:
-python tetris.py
+ Skript käivitab mängu demo. tetris.py
 
 7. GitHubi repositoorium:
 GitHub repo link: https://github.com/Annelisss/tetris-projekt.git
