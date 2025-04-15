@@ -42,6 +42,6 @@ Fail: tetris.py
 7. GitHubi repositoorium:
 GitHub repo link: https://github.com/Annelisss/tetris-projekt.git
 
-## 8. Halduskeskkond
+8. Halduskeskkond
 Projekti ülesannete haldamiseks kasutame Trellot.  
 Trello projektitahvel: https://trello.com/invite/b/67fd7b84150ebc07898ed82c/ATTI885052c2fc9cee9744dac5b616944db30CCFE7A4/tetris-projekt
