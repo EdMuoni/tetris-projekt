@@ -12,7 +12,7 @@ Anneli Sepp - arendaja
 Edgar Muoni - arendaja
 
 3. Projekti idee – lühikirjeldus:
-Loome klassikalise Tetrise mängu lihtsustatud versiooni, kus mängija juhib ülevalt alla kukkuvaid kujundeid (tetromino’sid), eesmärgiga täita horisontaalseid ridu ja koguda punkte. Mängu liides on loodud kas PySimpleGUI või Tkinteri abil. Soovime just klassikalise luua, kuna üks meist on just sellest puudust tundnud.
+Loome klassikalise Tetrise mängu lihtsustatud versiooni, kus mängija juhib ülevalt alla kukkuvaid kujundeid (tetromino’sid), eesmärgiga täita horisontaalseid ridu ja koguda punkte. Mängu liides on loodud Tkinteri abil. Soovime just klassikalise luua, kuna üks meist on just sellest puudust tundnud.
 
 4. Valitud projekti suund:
 4. Kasutajaliides Tkinter
